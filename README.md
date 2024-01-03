@@ -21,7 +21,7 @@
    <!-- GitHub Stats in Same Line -->
  <div style="display: flex; justify-content: space-between; margin-top: 20px;">
             <div style="flex: 1; box-sizing: border-box; margin-right: 2%;">
-                <img src="https://github-readme-stats.vercel.app/api?username=WriteNaN&show_icons=true&theme=radical&hide_rank=true" alt="Write's GitHub stats" style="border-radius: 8px; margin-bottom: 10px;">
+               <!-- <img src="https://github-readme-stats.vercel.app/api?username=WriteNaN&show_icons=true&theme=radical&hide_rank=true" alt="Write's GitHub stats" style="border-radius: 8px; margin-bottom: 10px;"> gonna hide this till i get atleast A showup muahaha -->
             </div>
             <div style="flex: 1; box-sizing: border-box;">
                 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WriteNaN&layout=compact&theme=radical" alt="Top Languages" style="border-radius: 8px;">
