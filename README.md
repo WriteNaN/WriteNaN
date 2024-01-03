@@ -1,4 +1,4 @@
-<div style="max-width: 1200px; margin: 0 auto; background-color: #ffffff; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); overflow: hidden;">
+<div style="max-width: 400px; margin: 0 auto; background-color: #ffffff; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); overflow: hidden;">
 
 <!-- Header Section -->
 <div style="text-align: center; background-color: #333; color: white; padding: 20px;">
@@ -13,18 +13,13 @@
   <p style="line-height: 1.5; margin-bottom: 10px;">I'm a software engineer dedicated to making the Internet more secure and private.</p>
   <p style="line-height: 1.5; margin-bottom: 20px;">In the early phases of shaping the future of the internet, I'm honored to contribute to this space and create historical apps - that's my goal ✍️.</p>
 
-  <!-- Twitter Follow Badge -->
-   <a href="https://twitter.com/write_int" target="_blank" rel="noopener noreferrer" style="text-decoration: none; margin-right: 10px;">
-            <img src="https://img.shields.io/twitter/follow/write_int?style=social" alt="Follow me on Twitter" style="height: 20px;">
-        </a>
-
    <!-- GitHub Stats in Same Line -->
  <div style="display: flex; justify-content: space-between; margin-top: 20px;">
             <div style="flex: 1; box-sizing: border-box; margin-right: 2%;">
                <!-- <img src="https://github-readme-stats.vercel.app/api?username=WriteNaN&show_icons=true&theme=radical&hide_rank=true" alt="Write's GitHub stats" style="border-radius: 8px; margin-bottom: 10px;"> gonna hide this till i get atleast A showup muahaha -->
             </div>
             <div style="flex: 1; box-sizing: border-box;">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WriteNaN&layout=compact&theme=radical" alt="Top Languages" style="border-radius: 8px;">
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WriteNaN&layout=compact&theme=radical" alt="Top Languages" style="border-radius: 8px; width:100%;">
             </div>
         </div>
     </div>
