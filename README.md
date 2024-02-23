@@ -2,7 +2,6 @@
 
 <!-- Header Section -->
 <div style="text-align: center; background-color: #333; color: white; padding: 20px;">
-        <img src="https://github.com/WriteNaN/WriteNaN/assets/151211283/3f84afb4-9ed1-4ca0-8f91-4e2fc972e558" alt="Profile Image" style="width: 100%; border-radius: 8px 8px 0 0;">
         <h1 style="margin: 10px 0 0; font-size: 1.2em;">👋 Hey, I'm Write Int!</h1>
     </div>
 
@@ -19,7 +18,7 @@
                <!-- <img src="https://github-readme-stats.vercel.app/api?username=WriteNaN&show_icons=true&theme=radical&hide_rank=true" alt="Write's GitHub stats" style="border-radius: 8px; margin-bottom: 10px;"> gonna hide this till i get atleast A showup muahaha -->
             </div>
             <div style="flex: 1; box-sizing: border-box;">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WriteNaN&layout=compact&theme=radical" alt="Top Languages" style="border-radius: 8px; width:100%;">
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WriteNaN&layout=compact&theme=radical" alt="Top Languages" style="border-radius: 8px;">
             </div>
         </div>
     </div>
